@@ -26,8 +26,8 @@ Upload the code to your ESP32 board.
 ## Mobile Application:
 
 Download the MIT App Inventor software or access it online.
-Download the source code for the mobile application (link to code).
-Follow the instructions (link to instructions) to build and deploy the mobile application on your Android device.
+Download the source code for the mobile application.
+Follow the instructions to build and deploy the mobile application on your Android device.
 
 # Usage
 Turn on the ESP32 board and connect to it via Bluetooth using your mobile device.
